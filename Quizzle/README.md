@@ -1,6 +1,6 @@
 # Quiz-Galaxy
 
-Quiz-Galaxy is a website designed to test your knowledge of programming languages and HTML/CSS markup languages. Developed for an undergraduate course at University of Patras, under Prof. Nikolaos Avouris.
+Quizzle is a website designed to test your knowledge of programming languages and HTML/CSS markup languages.
 ## Features
 
 - Programming Language Quizzes: Test your knowledge with quizzes covering concepts from Python, JavaScript and C.
@@ -22,4 +22,3 @@ Quiz-Galaxy is a website designed to test your knowledge of programming language
 
 ---
 
-Note: Quiz-Galaxy was a project developed by a very young person, diving into multiple web technologies all at once. All sections, all code developed should be scrutinized to heck and back. Originally, deployed to Heroku, it is now homeless, but you can run it through router.py and browsing to http://localhost:5000.
