@@ -1,4 +1,4 @@
-# Quiz-Galaxy
+# Quizzle
 
 Quizzle is a website designed to test your knowledge of programming languages and HTML/CSS markup languages.
 ## Features
