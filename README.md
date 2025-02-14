@@ -44,8 +44,4 @@ A **Flask-powered web version** of the classic **Hangman** word-guessing game.
 - **SQLite** (Database storage)  
 - **Bootstrap** (UI styling)  
 
-## 🚀 How to Run Locally  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/internship-projects.git
-   cd internship-projects
+
